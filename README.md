@@ -22,10 +22,10 @@ Open the website and play!
 
 User high Score is shown at the end
 
-![Screenshot of the weather dashboard](./assets/IMG001.png)
+![Screenshot of the MC Code Quiz](./assets/img/IMG-001.png)
 
 
-Link to application: https://ccc7321.github.io/weather-dashboard/
+Link to application: https://ccc7321.github.io/MC-code-quiz/
 
 
 ## Credits
